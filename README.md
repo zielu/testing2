@@ -10,7 +10,3 @@ sdfdfsdf
 asdsfd
 sdfsdf
 sdf
-sd
-fs
-df
-sdf
