@@ -5,8 +5,6 @@ sdfs;jfs
 sfsfsk
 sdfdfsdf
 asdsfd
-sdfsdf
-sdf
 asdasd
 as
 a
